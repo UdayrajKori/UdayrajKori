@@ -111,5 +111,6 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
 <ol>
   <li><a href="https://udayraj-weather-app.netlify.app/" target="_blank">Weather App</a></li>
   <li><a href="https://simplecalculatorbyuday.netlify.app/" target="_blank">Simple Calculator</a></li>
+  <li><a href="https://udayrajkori.github.io/3D-Portfolio-Website/" target="_blank">3D-Portfolio Website</a></li>
 </ol>
 
