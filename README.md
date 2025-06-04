@@ -120,3 +120,12 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
   <li><a href="https://udayrajkori.github.io/Chat-Messenger/" target="_blank">Simple Chat Messenger</a></li>
 </ol>
 
+<h3>Top Rated Projects:</h3>
+
+<ol>
+  <li><a href="https://udayrajkori.github.io/3D-Portfolio-Website/" target="_blank">3D-Portfolio Website</a></li>
+  <li><a href="https://e-commerce-website-udayraj-kori.netlify.app/" target="_blank">E-Commerce Website</a></li>
+  <li><a href="https://udayrajkori.github.io/My-Portfolio/" target="_blank">My Portfolio website</a></li>
+  <li><a href="https://udayrajkori-youtube-clone.netlify.app/" target="_blank">YouTube Clone</a></li>
+</ol>
+
