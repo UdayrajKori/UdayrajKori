@@ -69,15 +69,11 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
   </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/aspnet/core/web-api/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net core web api" width="40" height="40"/>
 </a>
 
 </p>
