@@ -136,6 +136,9 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
 
 <h3>My Achievements:</h3>
 <ol>
-  <li><img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2024 Provinical phase certificate from Code For Change"/></li>
+  <li>
+    Code Fest 2025 Certicate by Code For Change:
+    <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2025 Provinical phase certificate from Code For Change"/>
+  </li>
 </ol>
 
