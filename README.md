@@ -140,5 +140,9 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
     Code Fest 2025 Certicate by Code For Change:
     <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2025 Provinical phase certificate from Code For Change"/>
   </li>
+    <li>
+    Volunteer Certificate from Radiant College:
+    <img src="Volenteer certificate_page-0001.jpg" alt="Volunteer Certificate of the HTML, CSS in Radiant College"/>
+  </li>
 </ol>
 
