@@ -135,14 +135,22 @@ I'm currently pursuing BTech in Education Information Technology at Kathmandu Un
 </ol>
 
 <h3>My Achievements:</h3>
-<ol>
-  <li>
-    Code Fest 2025 Certicate by Code For Change:
-    <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2025 Provinical phase certificate from Code For Change"/>
-  </li>
-    <li>
-    Volunteer Certificate from Radiant College:
-    <img src="Volenteer certificate_page-0001.jpg" alt="Volunteer Certificate of the HTML, CSS in Radiant College"/>
-  </li>
-</ol>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;">
+
+  <div style="border:1px solid #ddd;border-radius:12px;padding:12px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08);">
+    <p><b>Code Fest 2025 Certicate by Code For Change:</b></p>
+    <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" 
+         alt="Code Fest 2025 Provinical phase certificate from Code For Change"
+         style="width:100%;border-radius:8px;">
+  </div>
+
+  <div style="border:1px solid #ddd;border-radius:12px;padding:12px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08);">
+    <p><b>Volunteer Certificate from Radiant College:</b></p>
+    <img src="Volenteer certificate_page-0001.jpg" 
+         alt="Volunteer Certificate of the HTML, CSS in Radiant College"
+         style="width:100%;border-radius:8px;">
+  </div>
+
+</div>
 
