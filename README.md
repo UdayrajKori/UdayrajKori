@@ -19,7 +19,7 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40" alt="Networking" />
+<img src="https://cdn.simpleicons.org/githubcopilot" width="40" alt="GitHub Copilot" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
