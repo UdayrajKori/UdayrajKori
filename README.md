@@ -59,23 +59,17 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 
 ## 🚀 My Projects
 
-<div align="left">
-
-| Project | Description |
-|--------|-------------|
-| 🌦️ [Weather App](https://udayraj-weather-app.netlify.app/) | A simple weather application |
-| 🧮 [Simple Calculator](https://simplecalculatorbyuday.netlify.app/) | Basic calculator built for everyday calculations |
-| 🎨 [3D Portfolio Website](https://udayrajkori.github.io/3D-Portfolio-Website/) | Interactive 3D personal portfolio |
-| 🌐 [Static Website](https://udayrajkori.github.io/My-first-webpage-project/) | HTML & CSS based website |
-| 🏫 [College Website](https://udayrajkori.github.io/Simple-college-websote/) | Simple college website design |
-| 🛒 [E-Commerce Website](https://e-commerce-website-udayraj-kori.netlify.app/) | Frontend e-commerce website |
-| 👨‍💻 [My Portfolio](https://udayrajkori.github.io/My-Portfolio/) | Personal portfolio website |
-| ▶️ [YouTube Clone](https://udayrajkori-youtube-clone.netlify.app/) | YouTube-inspired web interface |
-| 💬 [Chat Messenger](https://udayrajkori.github.io/Chat-Messenger/) | Simple chat messenger interface |
-| 🖼️ [Image Background Remover](https://imgly-bg-remover.netlify.app/) | Remove image backgrounds online |
-| ✅ [Task Management System](https://udayrajkori.github.io/Task-Management/) | Simple task management application |
-
-</div>
+- 🌦️ **[Weather App](https://udayraj-weather-app.netlify.app/)** — Simple weather application
+- 🧮 **[Simple Calculator](https://simplecalculatorbyuday.netlify.app/)** — Basic calculator application
+- 🎨 **[3D Portfolio Website](https://udayrajkori.github.io/3D-Portfolio-Website/)** — Interactive 3D portfolio
+- 🌐 **[Static Website](https://udayrajkori.github.io/My-first-webpage-project/)** — HTML & CSS project
+- 🏫 **[College Website](https://udayrajkori.github.io/Simple-college-websote/)** — Simple college website
+- 🛒 **[E-Commerce Website](https://e-commerce-website-udayraj-kori.netlify.app/)** — E-commerce frontend project
+- 👨‍💻 **[My Portfolio](https://udayrajkori.github.io/My-Portfolio/)** — Personal portfolio
+- ▶️ **[YouTube Clone](https://udayrajkori-youtube-clone.netlify.app/)** — YouTube-inspired interface
+- 💬 **[Chat Messenger](https://udayrajkori.github.io/Chat-Messenger/)** — Simple messaging interface
+- 🖼️ **[Image Background Remover](https://imgly-bg-remover.netlify.app/)** — Online background removal tool
+- ✅ **[Task Management System](https://udayrajkori.github.io/Task-Management/)** — Task management application
 
 <h3>Top Rated Projects:</h3>
 
