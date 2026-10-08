@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/main/2.png" alt="Header image"/>
 
-<h1 align="left">👋 About Me</h1>
-<h6>Hi there! I'm Udayraj Kori — a passionate learner, developer, and educator from Nepal 🇳🇵.
-I'm currently pursuing BTech in Education Information Technology at Kathmandu University (Radiant College).</h6>
+## 👋 About Me
+
+Hi, I'm **Udayraj Kori** 🇳🇵 — a passionate **developer, learner, and educator** from Nepal.
+
+🎓 BTech in Education Information Technology @ Kathmandu University  
+💻 Interested in **Web Development, Software Engineering & AI**  
+🚀 Always learning, building, and improving.
 
 <h3 align="left">Languages and Tools:</h3>
 
