@@ -87,23 +87,10 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 | 🖼️ [Image Background Remover](https://imgly-bg-remover.netlify.app/) | Online image background removal tool |
 | ✅ [Task Management System](https://udayrajkori.github.io/Task-Management/) | Application for managing daily tasks |
 
-<h3>My Achievements:</h3>
+## 🏆 My Achievements
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;">
-
-  <div style="border:1px solid #ddd;border-radius:12px;padding:12px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08);">
-    <p><b>Code Fest 2025 Certicate by Code For Change:</b></p>
-    <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" 
-         alt="Code Fest 2025 Provinical phase certificate from Code For Change"
-         style="width:100%;border-radius:8px;">
-  </div>
-
-  <div style="border:1px solid #ddd;border-radius:12px;padding:12px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08);">
-    <p><b>Volunteer Certificate from Radiant College:</b></p>
-    <img src="Volenteer certificate_page-0001.jpg" 
-         alt="Volunteer Certificate of the HTML, CSS in Radiant College"
-         style="width:100%;border-radius:8px;">
-  </div>
-
-</div>
+| Achievement | Certificate |
+|-------------|-------------|
+| 🏅 **Code Fest 2025 Certificate** — Code For Change | <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2025 Certificate by Code For Change" width="400"/> |
+| 🤝 **Volunteer Certificate** — Radiant College | <img src="Volenteer certificate_page-0001.jpg" alt="Volunteer Certificate from Radiant College" width="400"/> |
 
