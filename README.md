@@ -8,7 +8,7 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 ## 🎓 Education:
 
 **BTech in Education Information Technology**  
-🏫 National Examination Board – Shree Masina Baba Narendra Puri Moglaha Secondary School 
+🏫 National Examination Board – Shree Masina Baba Narendra Puri Moglaha Secondary School  
 🏫 Kathmandu University – Radiant College  
 📚 **5th Semester** | 2024 – Present
 
