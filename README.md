@@ -94,3 +94,15 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 | 🏅 **Code Fest 2025 Certificate** — Code For Change | <img src="Hackathon Certificate of CFC (Code Fest)_page-0001.jpg" alt="Code Fest 2025 Certificate by Code For Change" width="400"/> |
 | 🤝 **Volunteer Certificate** — Radiant College | <img src="Volenteer certificate_page-0001.jpg" alt="Volunteer Certificate from Radiant College" width="400"/> |
 
+
+## 📚 Currently Learning
+
+- 🌐 Advanced Web Development
+- ⚛️ React & TypeScript
+- 🟣 Node.js & Express
+- 🔷 C# & ASP.NET Core
+- 🗄️ Database & SQL
+- 🧠 Data Structures & Algorithms
+- 🤖 AI & AI-assisted Development
+
+
