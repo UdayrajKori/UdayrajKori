@@ -42,6 +42,14 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 
+  <a href="https://x.com/udayrajkori2000">
+    <img src="https://img.shields.io/static/v1?message=X%20(Twitter)&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X (Twitter)" />
+  </a>
+
+  <a href="https://medium.com/@udayrajkori456">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium" />
+  </a>
+
 </div>
 
 ---
