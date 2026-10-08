@@ -2,11 +2,14 @@
 
 ## 👋 About Me
 
-Hi, I'm **Udayraj Kori** 🇳🇵 — a passionate **developer, learner, and educator** from Nepal.
+I'm **Udayraj Kori** 🇳🇵, a developer and learner from Nepal.  
+I'm passionate about **Web Development, Software Engineering, and AI** and enjoy turning ideas into practical projects. 🚀
 
-🎓 BTech in Education Information Technology @ Kathmandu University  
-💻 Interested in **Web Development, Software Engineering & AI**  
-🚀 Always learning, building, and improving.
+## 🎓 Education
+
+**BTech in Education Information Technology**  
+🏫 Kathmandu University – Radiant College  
+📚 **5th Semester** | 2024 – Present
 
 <h3 align="left">Languages and Tools:</h3>
 
