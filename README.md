@@ -11,6 +11,50 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 🏫 Kathmandu University – Radiant College  
 📚 **5th Semester** | 2024 – Present
 
+## 📚 Currently Learning
+
+- 🌐 Advanced Web Development
+- ⚛️ React & TypeScript
+- 🟣 Node.js & Express
+- 🔷 C# & ASP.NET Core
+- 🗄️ Database & SQL
+- 🧠 Data Structures & Algorithms
+- 🤖 AI & AI-assisted Development
+
+
+  ## 🧠 Interests
+
+- 💻 Software Engineering
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence
+- 🧩 Problem Solving & DSA
+- 🏗️ System Design
+- 📚 Technology & Education
+
+
+## 🎯 2026 Goals
+
+- 🚀 Improve my software engineering skills
+- 🧠 Strengthen Data Structures & Algorithms
+- 🌐 Build more full-stack projects
+- 🤖 Explore AI and AI-assisted development
+- 📖 Contribute to open-source projects
+- 💼 Grow as a professional software developer
+  
+
+
+## 💼 Experience
+
+**Junior Software Developer**  
+Nexa Academy Pvt. Ltd.
+
+Working on web applications using **React, TypeScript, C#, and ASP.NET Core**.
+
+**Software Development Intern**  
+Nepal Mentor
+
+Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-world software development practices.
+
 ## 💻 Languages & Tools
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40"/> 
@@ -95,14 +139,6 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 | 🤝 **Volunteer Certificate** — Radiant College | <img src="Volenteer certificate_page-0001.jpg" alt="Volunteer Certificate from Radiant College" width="400"/> |
 
 
-## 📚 Currently Learning
 
-- 🌐 Advanced Web Development
-- ⚛️ React & TypeScript
-- 🟣 Node.js & Express
-- 🔷 C# & ASP.NET Core
-- 🗄️ Database & SQL
-- 🧠 Data Structures & Algorithms
-- 🤖 AI & AI-assisted Development
 
 
