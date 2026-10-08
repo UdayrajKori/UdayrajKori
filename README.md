@@ -22,7 +22,7 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 - 🤖 AI & AI-assisted Development
 
 
-  ## 🧠 Interests
+## 🧠 Interests
 
 - 💻 Software Engineering
 - 🌐 Full-Stack Web Development
