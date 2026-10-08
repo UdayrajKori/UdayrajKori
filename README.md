@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/main/2.png" alt="Header image"/>
 
-## 👋 About Me
+## 👋 About Me:
 
 I am **Udayraj Kori** 🇳🇵, a developer and learner from Nepal.  
 I am passionate about **Web Development, Software Engineering, and AI** and enjoy turning ideas into practical projects. 🚀
 
-## 🎓 Education
+## 🎓 Education:
 
 **BTech in Education Information Technology**  
+🏫 National Examination Board – Shree Masina Baba Narendra Puri Moglaha Secondary School 
 🏫 Kathmandu University – Radiant College  
 📚 **5th Semester** | 2024 – Present
 
-## 📚 Currently Learning
+## 📚 Currently Learning:
 
 - 🌐 Advanced Web Development
 - ⚛️ React & TypeScript
@@ -22,7 +23,7 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 - 🤖 AI & AI-assisted Development
 
 
-## 🧠 Interests
+## 🧠 Interests:
 
 - 💻 Software Engineering
 - 🌐 Full-Stack Web Development
@@ -32,7 +33,7 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 - 📚 Technology & Education
 
 
-## 🎯 2026 Goals
+## 🎯 2026 Goals:
 
 - 🚀 Improve my software engineering skills
 - 🧠 Strengthen Data Structures & Algorithms
@@ -43,19 +44,19 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
   
 
 
-## 💼 Experience
+## 💼 Experience:
 
 **Junior Software Developer**  
-Nexa Academy Pvt. Ltd.
+  Nexa Academy Pvt. Ltd.
 
-Working on web applications using **React, TypeScript, C#, and ASP.NET Core**.
+  Working on web applications using **React, TypeScript, C#, and ASP.NET Core**.
 
 **Software Development Intern**  
-Nepal Mentor
+  Nepal Mentor
 
-Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-world software development practices.
+  Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-world software development practices.
 
-## 💻 Languages & Tools
+## 💻 Languages & Tools:
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
@@ -66,7 +67,7 @@ Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-wor
 <img src="https://cdn.simpleicons.org/githubcopilot" width="40" alt="GitHub Copilot" />
 </p>
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me:
 
 <div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -100,7 +101,7 @@ Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-wor
 
 </div>
 
-## 🚀 My Projects
+## 🚀 My Projects:
 
 <div align="left">
 
@@ -120,7 +121,7 @@ Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-wor
 
 </div>
 
-## ⭐ Top Rated Projects
+## ⭐ Top Rated Projects:
 
 | Project | Description |
 |--------|-------------|
@@ -131,7 +132,7 @@ Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-wor
 | 🖼️ [Image Background Remover](https://imgly-bg-remover.netlify.app/) | Online image background removal tool |
 | ✅ [Task Management System](https://udayrajkori.github.io/Task-Management/) | Application for managing daily tasks |
 
-## 🏆 My Achievements
+## 🏆 My Achievements:
 
 | Achievement | Certificate |
 |-------------|-------------|
