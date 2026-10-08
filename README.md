@@ -52,8 +52,6 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 
 </div>
 
----
-
 ## 🐍 Contribution Activity
 
 <img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
