@@ -44,17 +44,17 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
   
 
 
-## 💼 Experience:
+## 💼 Experience
 
 **Junior Software Developer**  
-  Nexa Academy Pvt. Ltd.
+&nbsp;&nbsp;&nbsp;&nbsp;**Nexa Academy Pvt. Ltd.**
 
-  Working on web applications using **React, TypeScript, C#, and ASP.NET Core**.
+&nbsp;&nbsp;&nbsp;&nbsp;Working on web applications using **React, TypeScript, C#, and ASP.NET Core**.
 
 **Software Development Intern**  
-  Nepal Mentor
+&nbsp;&nbsp;&nbsp;&nbsp;**Nepal Mentor**
 
-  Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-world software development practices.
+&nbsp;&nbsp;&nbsp;&nbsp;Worked with **C#, ASP.NET Core Web API, MVC, and React** while learning real-world software development practices.
 
 ## 💻 Languages & Tools:
 
