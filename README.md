@@ -22,35 +22,33 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 <img src="https://cdn.simpleicons.org/githubcopilot" width="40" alt="GitHub Copilot" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-
-###
+## 🤝 Connect With Me
 
 <div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+
   <a href="https://www.youtube.com/@onlineeducationnepal">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
   </a>
 
   <a href="https://www.instagram.com/udayraj.kori.376/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 
   <a href="https://www.facebook.com/udayraj.kori.376/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
   </a>
 
   <a href="https://www.linkedin.com/in/udayraj-kori-a751a9337/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+
 </div>
 
+---
 
-###
+## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
-###
+<img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 <h3>My Projects:</h3>
 
