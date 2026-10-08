@@ -56,26 +56,26 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
 
 </div>
 
-## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/UdayrajKori/UdayrajKori/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+## 🚀 My Projects
 
-<h3>My Projects:</h3>
+<div align="left">
 
-<ol>
-  <li><a href="https://udayraj-weather-app.netlify.app/" target="_blank">Weather App</a></li>
-  <li><a href="https://simplecalculatorbyuday.netlify.app/" target="_blank">Simple Calculator</a></li>
-  <li><a href="https://udayrajkori.github.io/3D-Portfolio-Website/" target="_blank">3D-Portfolio Website</a></li>
-  <li><a href="https://udayrajkori.github.io/My-first-webpage-project/" target="_blank">Static Website (HTML+CSS Project)</a></li>
-  <li><a href="https://udayrajkori.github.io/Simple-college-websote/" target="_blank">Simple College Website</a></li>
-  <li><a href="https://e-commerce-website-udayraj-kori.netlify.app/" target="_blank">E-Commerce Website</a></li>
-  <li><a href="https://udayrajkori.github.io/My-Portfolio/" target="_blank">My Portfolio website</a></li>
-  <li><a href="https://udayrajkori-youtube-clone.netlify.app/" target="_blank">YouTube Clone</a></li>
-  <li><a href="https://udayrajkori.github.io/Chat-Messenger/" target="_blank">Simple Chat Messenger</a></li>
-  <li><a href="https://imgly-bg-remover.netlify.app/" target="_blank">bg-remover of images</a></li>
-  <li><a href="https://udayrajkori.github.io/Task-Management/" target="_blank">Task Management System</a></li>
-  
-</ol>
+| Project | Description |
+|--------|-------------|
+| 🌦️ [Weather App](https://udayraj-weather-app.netlify.app/) | A simple weather application |
+| 🧮 [Simple Calculator](https://simplecalculatorbyuday.netlify.app/) | Basic calculator built for everyday calculations |
+| 🎨 [3D Portfolio Website](https://udayrajkori.github.io/3D-Portfolio-Website/) | Interactive 3D personal portfolio |
+| 🌐 [Static Website](https://udayrajkori.github.io/My-first-webpage-project/) | HTML & CSS based website |
+| 🏫 [College Website](https://udayrajkori.github.io/Simple-college-websote/) | Simple college website design |
+| 🛒 [E-Commerce Website](https://e-commerce-website-udayraj-kori.netlify.app/) | Frontend e-commerce website |
+| 👨‍💻 [My Portfolio](https://udayrajkori.github.io/My-Portfolio/) | Personal portfolio website |
+| ▶️ [YouTube Clone](https://udayrajkori-youtube-clone.netlify.app/) | YouTube-inspired web interface |
+| 💬 [Chat Messenger](https://udayrajkori.github.io/Chat-Messenger/) | Simple chat messenger interface |
+| 🖼️ [Image Background Remover](https://imgly-bg-remover.netlify.app/) | Remove image backgrounds online |
+| ✅ [Task Management System](https://udayrajkori.github.io/Task-Management/) | Simple task management application |
+
+</div>
 
 <h3>Top Rated Projects:</h3>
 
