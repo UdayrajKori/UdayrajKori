@@ -50,6 +50,10 @@ I am passionate about **Web Development, Software Engineering, and AI** and enjo
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium" />
   </a>
 
+  <a href="https://leetcode.com/u/udayrajkori/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" />
+  </a>
+
 </div>
 
 ## 🐍 Contribution Activity
